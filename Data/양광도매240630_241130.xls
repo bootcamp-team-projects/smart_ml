@@ -1,0 +1,1649 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<title>가격정보 - 친환경농산물 - 품목별 엑셀 출력</title>
+	<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=utf-8">
+	<style type="text/css">
+		table caption	{ text-align:left; }
+		table th		{ background-color:#eff2f9; }
+		table td		{ mso-number-format:\@; text-align:general; vertical-align:middle; text-align:center; white-space:nowrap; mso-rotate:0; mso-background-source:auto; mso-pattern:auto; color:black; font-size:11.0pt; font-style:normal; text-decoration:none; font-family:"맑은 고딕", monospace; mso-font-charset:129; border:1px; mso-protection:locked visible; mso-style-name:표준; mso-style-id:0; }
+		table td.c		{ text-align:center;}
+		table td.l		{ text-align:left; }
+		table td.r		{ text-align:right; }
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td	class="data">
+				<table id="data" border="1px">
+					
+									<caption>가락시장 
+									
+										
+										
+											사과 양광, 등급:, 단위:
+										
+									
+									경락가격 정보</caption>
+									<colgroup>
+		                                 <col>
+		                                 <col>
+		                                 <col>
+		                                 <col>
+		                                 <col>
+		                                 <col>
+		                            </colgroup>
+									<!-- header 생성 -->
+									<thead>
+										<tr>
+											<th scope="col" style="position: relative;">일자<button type="button" class="btn ic sort" onclick="fncSortTbl(this, '#itemTable_1', 'desc');" title="기본 정렬됨"><i class="feather icon-align-justify"></i></button></th>
+											<th scope="col">시장</th>
+											<th scope="col">품목</th>
+											<th scope="col">단위</th>
+											<th scope="col">등급</th>
+											<th scope="col">평균가</th>
+										</tr>
+									</thead>
+		                            <tbody>
+		                            	
+		                            		
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,571</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>32,677</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,643</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,571</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>32,677</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,643</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,571</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>32,677</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,643</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,571</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>32,677</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.13</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,643</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,571</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>32,677</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,643</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,571</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>32,677</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,643</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,571</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>32,677</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,643</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>42,571</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>32,677</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,643</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>40,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>33,636</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>27,788</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>21,067</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>40,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>33,636</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>27,788</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.06</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>21,067</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>45,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>33,514</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>24,875</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>45,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>33,514</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>24,875</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>45,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>33,514</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>24,875</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>45,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>33,514</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.11.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>24,875</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>45,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>33,514</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.31</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>24,875</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>32,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>30,444</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>28,308</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>17,833</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>46,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>41,468</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>36,763</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.29</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>31,049</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>46,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>41,468</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>36,763</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>31,049</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>48,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>48,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>38,941</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.26</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>31,933</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>55,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>51,917</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>38,200</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.25</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>26,652</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>48,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>45,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>35,543</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.24</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>19,900</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>58,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>49,791</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>40,876</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.23</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>25,351</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>57,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>54,059</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>43,675</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.22</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,024</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>51,275</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>41,536</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>28,758</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.21</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>14,294</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>52,368</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>45,948</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>41,057</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.19</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>22,143</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>60,195</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>51,409</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>36,488</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.18</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>21,974</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>74,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>59,336</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>43,683</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.17</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,603</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>67,364</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>60,817</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>46,658</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.16</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>24,148</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>77,200</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>58,642</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>40,755</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.15</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>24,536</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>76,480</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>65,237</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>47,620</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.14</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>26,471</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>67,702</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>58,652</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>41,306</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.12</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>27,274</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>72,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>55,189</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>39,028</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.11</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>23,413</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>81,746</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>68,586</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>49,819</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.10</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>31,311</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>61,391</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>49,107</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>38,402</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.09</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>27,978</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>73,269</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>65,109</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>43,006</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.08</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>24,591</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>73,146</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>52,100</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>33,749</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.07</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>22,944</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>49,296</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>44,116</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>25,147</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.05</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>16,679</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>44,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>33,238</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>23,013</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.04</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>17,640</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>47,213</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>39,541</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>25,122</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.03</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>14,291</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>54,120</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>40,197</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>25,214</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.02</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>17,143</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>51,034</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>41,983</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>23,134</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.10.01</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>11,491</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>49,256</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>38,560</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>26,009</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.30</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>12,942</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>46,250</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>32,732</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>28,179</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.28</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>22,000</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>특</td>
+				                            			<td>46,250</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>상</td>
+				                            			<td>32,732</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>중</td>
+				                            			<td>28,179</td>
+				                            		</tr>
+				                            	
+				                            		<tr>
+				                            			<td><span class="webSeq">20</span>24.09.27</td>
+				                            			<td>가락시장</td>
+				                            			<td>사과 양광</td>
+				                            			<td>  10키로상자</td>
+				                            			<td>하</td>
+				                            			<td>22,000</td>
+				                            		</tr>
+				                            	
+		                            		
+		                            		
+		                            	
+		                            </tbody>
+								
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
